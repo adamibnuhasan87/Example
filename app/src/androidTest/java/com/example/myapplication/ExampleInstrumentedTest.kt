@@ -22,6 +22,3 @@ class ExampleInstrumentedTest {
         assertEquals("com.example.myapplication", appContext.packageName)
     }
 }
-class Example {
-    var $q = 1
-}
